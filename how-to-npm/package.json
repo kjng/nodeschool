@@ -8,8 +8,6 @@
   "author": "",
   "license": "ISC",
   "description": "how-to-npm workshop from nodeschool",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "repository": "https://github.com/kjng/nodeschool/tree/master/how-to-npm"
 }
